@@ -3,7 +3,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>RAILS REACT WEBPACK</b></h3>
+  <h3><b>HELLO RAILS BACK END</b></h3>
 
 </div>
 
@@ -29,9 +29,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Rails React Webpack <a name="about-project"></a>
+# 📖 Hello Rails Back End <a name="about-project"></a>
 
-This is a educational project to learn how to conect Ruby on Rails as a backend tech stack with React in the frontend using Webpack.
+This is a API app with Ruby on Rails, that has an endpoint to return a random greeting.
+
+[Front-end-Link](https://github.com/VaneCode/hello-rails-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -144,7 +146,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add the name of the user to the greeting.
+- Endpoint that returns a random greeting.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
